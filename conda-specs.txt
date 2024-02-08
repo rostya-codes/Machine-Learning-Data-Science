@@ -1,0 +1,6 @@
+name of my conda env:
+course
+course env activation:
+conda activate course
+base env activation:
+conda activate base
